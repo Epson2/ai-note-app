@@ -3,14 +3,14 @@
 An AI-powered note-taking web application built with React that helps users create, organize, and manage notes intelligently. The app combines clean productivity tools with AI-assisted features to improve note organization, efficiency, and accessibility.
 
 # Features
-🧠 AI-assisted note organization
-📝 Create, edit, and delete notes
-📅 Weekly calendar navigation system
-📄 Export notes as PDF files
-🔍 Fast and responsive note management
-🎨 Clean modern UI built with React and CSS
-📱 Responsive design for desktop and mobile
-⚡ Lightweight and fast user experience
+- 🧠 AI-assisted note organization
+- 📝 Create, edit, and delete notes
+- 📅 Weekly calendar navigation system
+- 📄 Export notes as PDF files
+- 🔍 Fast and responsive note management
+- 🎨 Clean modern UI built with React and CSS
+- 📱 Responsive design for desktop and mobile
+- ⚡ Lightweight and fast user experience
 
 # Tech Stack
 Frontend: React.js
