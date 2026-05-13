@@ -13,18 +13,18 @@ An AI-powered note-taking web application built with React that helps users crea
 - ⚡ Lightweight and fast user experience
 
 # Tech Stack
-Frontend: React.js
-Styling: CSS
-PDF Generation: jsPDF
-State Management: React Hooks
-Version Control: Git & GitHub
+- Frontend: React.js
+- Styling: CSS
+- PDF Generation: jsPDF
+- State Management: React Hooks
+- Version Control: Git & GitHub
 
 # Project Goals
 
 The goal of this project is to combine productivity and AI into a simple but powerful note-taking platform. The application focuses on:
 
-Improving organization
-Enhancing productivity
-Creating a smooth user experience
-Building a scalable AI-integrated application
+- Improving organization
+- Enhancing productivity
+- Creating a smooth user experience
+- Building a scalable AI-integrated application
 
